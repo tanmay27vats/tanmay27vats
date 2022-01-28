@@ -32,7 +32,7 @@
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-informational?style=flat-square&logo=codeigniter&logoColor=&color=fff)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-informational?style=flat-square&logo=ruby-on-rails&logoColor=fff&color=91091E)
 ![Angular](https://img.shields.io/badge/-Angular-informational?style=flat-square&logo=angular&logoColor=&color=CD1818)
-![Vue.js](https://img.shields.io/badge/python1-informational?style=flat-square&logo=vue.js&logoColor=&color=FBF6F0)
+![Vue.js](https://img.shields.io/badge/-Vue_js-informational?style=flat-square&logo=vue.js&logoColor=&color=FBF6F0)
 ![Django](https://img.shields.io/badge/-Django-informational?style=flat-square&logo=django&logoColor=&color=grey)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=&color=EEEEEE)
 ![Shopify](https://img.shields.io/badge/-Shopify-informational?style=flat-square&logo=shopify&logoColor=fff&color=7ab55c)
