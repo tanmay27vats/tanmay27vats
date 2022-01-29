@@ -1,12 +1,12 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/waving-hand.gif" width='40'> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/5251601?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" />
-
 ![profile count](https://komarev.com/ghpvc/?username=tanmay27vats&label=Profile%20views&color=0e75b6&style=flat-square)&nbsp;
 [![tanmay27vats](https://img.shields.io/twitter/follow/tanmay27vats?logo=twitter&style=flat-square)](https://twitter.com/tanmay27vats)&nbsp;
+
+<!--- 
 [![Tanmay Vats's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/5251601?color=orange&label=reputation&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/5251601 "Tanmay Vats's Stack Overflow Reputation")&nbsp;
 [![Tanmay Vats's Wordpress Stack Exchange Reputation](https://img.shields.io/stackexchange/wordpress/r/90238?color=1572A1&label=reputation&logo=stackexchange&style=flat-square)](https://stackoverflow.com/users/90238 "Tanmay Vats's Wordpress Stack Exchange Reputation")&nbsp;
-
+--->
 
 
 <!--- [![GitHub tanmay27vats](https://img.shields.io/github/followers/tanmay27vats?label=follow&style=flat-square)](https://github.com/tanmay27vats)&nbsp; --->
