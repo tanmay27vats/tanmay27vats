@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/waving-hand.gif" width='40'> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 
+<img src="https://img.shields.io/stackexchange/stackoverflow/r/5251601?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge" />
 
 ![profile count](https://komarev.com/ghpvc/?username=tanmay27vats&label=Profile%20views&color=0e75b6&style=flat-square)&nbsp;
 [![tanmay27vats](https://img.shields.io/twitter/follow/tanmay27vats?logo=twitter&style=flat-square)](https://twitter.com/tanmay27vats)&nbsp;
