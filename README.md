@@ -1,9 +1,13 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/waving-hand.gif" width='40'> Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 
 
-
 ![profile count](https://komarev.com/ghpvc/?username=tanmay27vats&label=Profile%20views&color=0e75b6&style=flat-square)&nbsp;
 [![tanmay27vats](https://img.shields.io/twitter/follow/tanmay27vats?logo=twitter&style=flat-square)](https://twitter.com/tanmay27vats)&nbsp;
+[![Tanmay Vats's Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/5251601?color=orange&label=reputation&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/5251601 "Tanmay Vats's Stack Overflow Reputation")&nbsp;
+[![Tanmay Vats's Wordpress Stack Exchange Reputation](https://img.shields.io/stackexchange/wordpress/r/90238?color=1572A1&label=reputation&logo=stackexchange&style=flat-square)](https://stackoverflow.com/users/90238 "Tanmay Vats's Wordpress Stack Exchange Reputation")&nbsp;
+
+
+
 <!--- [![GitHub tanmay27vats](https://img.shields.io/github/followers/tanmay27vats?label=follow&style=flat-square)](https://github.com/tanmay27vats)&nbsp; --->
 
 
@@ -60,12 +64,13 @@
 
 
 <p align="left">
-<a href="https://twitter.com/tanmay27vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/twitter.svg" alt="tanmay27vats" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/tanmay27vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/linked-in-alt.svg" alt="tanmay27vats" height="30" width="30" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/tanmay27vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/stack-overflow.svg" alt="tanmay27vats" height="30" width="30" /></a>&nbsp;
-<a href="https://fb.com/tanmay27vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/facebook.svg" alt="tanmay27vats" height="30" width="30" /></a>&nbsp;
-<a href="https://instagram.com/tanmay27vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/instagram.svg" alt="tanmay27vats" height="30" width="30" /></a>&nbsp;
-<a href="https://www.leetcode.com/tanmay27vats" target="blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/leet-code.svg" alt="tanmay27vats" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/twitter.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/linked-in-alt.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/stack-overflow.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
+<a href="https://fb.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/facebook.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
+<a href="https://instagram.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/instagram.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
+<a href="https://www.leetcode.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/leet-code.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
+<a href="https://wordpress.stackexchange.com/users/90238/tanmay-vats?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/stackexchange.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
 </p>
 
 
@@ -73,12 +78,15 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay27vats&show_icons=true&locale=en&layout=compact" alt="tanmay27vats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay27vats&show_icons=true&locale=en&layout=compact" alt="tanmay vats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay27vats&show_icons=true&locale=en" alt="tanmay27vats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay27vats&show_icons=true&locale=en" alt="tanmay vats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay27vats&" alt="tanmay27vats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay27vats&" alt="tanmay vats" /></p>
 
+-------------------
+### :envelope: Joke of the moment :upside_down_face: :man_dancing:
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
 - 👋 Hi, I’m Tanmay Vats (@tanmay27vats)
@@ -95,5 +103,5 @@
 - ⚡ Fun fact: ...
 tanmay27vats/tanmay27vats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay27vats" alt="tanmay27vats" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmay27vats" alt="tanmay vats" /></a> </p>
 --->
