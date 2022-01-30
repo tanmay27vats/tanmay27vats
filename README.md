@@ -8,7 +8,6 @@
 [![Tanmay Vats's Wordpress Stack Exchange Reputation](https://img.shields.io/stackexchange/wordpress/r/90238?color=1572A1&label=reputation&logo=stackexchange&style=flat-square)](https://stackoverflow.com/users/90238 "Tanmay Vats's Wordpress Stack Exchange Reputation")&nbsp;
 --->
 
-
 <!--- [![GitHub tanmay27vats](https://img.shields.io/github/followers/tanmay27vats?label=follow&style=flat-square)](https://github.com/tanmay27vats)&nbsp; --->
 
 
@@ -20,7 +19,7 @@
 
 
 
--------------------
+-----------------------------------
 ### 🛠 &nbsp; Languages & Tools Stack
 
 ![Javascript](https://img.shields.io/badge/-Javascript-informational?style=flat-square&logo=javascript&logoColor=fff&color=f7df1f)
@@ -54,8 +53,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=flat-square&logo=postman&logoColor=fff&color=fa6c37)
 
 ![Mysql](https://img.shields.io/badge/-Mysql-informational?style=flat-square&logo=mysql&logoColor=fff&color=4479a1)
-![Maria DB](https://img.shields.io/badge/-MariaDB-informational?style=flat-square&logo=mariadb&logoColor=fff&color=FF577F)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-informational?style=flat-square&logo=postgresql&logoColor=fff&color=3893b0)
+![Maria DB](https://img.shields.io/badge/-MariaDB-informational?style=flat-square&logo=mariadb&logoColor=fff&color=FF577F)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=&color=E4FBFF)
 
 
 
@@ -63,17 +63,16 @@
 
 ### 📫 &nbsp; Connect with me:
 
-
-<p align="left">
-<a href="https://twitter.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/twitter.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/twitter.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/linked-in-alt.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/stack-overflow.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
 <a href="https://fb.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/facebook.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
 <a href="https://instagram.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/instagram.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
 <a href="https://www.leetcode.com/tanmay27vats" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/leet-code.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
 <a href="https://wordpress.stackexchange.com/users/90238/tanmay-vats?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tanmay27vats/tanmay27vats/master/assets/images/stackexchange.svg" alt="tanmay vats" height="30" width="30" /></a>&nbsp;
-</p>
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://stackexchange.com/users/6825856/tanmay-vats?tab=accounts"><img src="https://stackexchange.com/users/flair/6825856.png" width="208" height="58" alt="profile for Tanmay Vats on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tanmay Vats on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 -------------------
 
