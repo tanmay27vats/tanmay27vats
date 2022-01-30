@@ -18,11 +18,12 @@
 - 💬 ask me about anything, I am happy to help;
 
 
-
 -----------------------------------
-### 🛠 &nbsp; Languages & Tools Stack
+### 🛠 &nbsp; Tech Stack
 
-![Javascript](https://img.shields.io/badge/-Javascript-informational?style=flat-square&logo=javascript&logoColor=fff&color=f7df1f)
+#### :point_right: Languages
+
+&nbsp;&nbsp;&nbsp; ![Javascript](https://img.shields.io/badge/-Javascript-informational?style=flat-square&logo=javascript&logoColor=fff&color=f7df1f)
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat-square&logo=php&logoColor=fff&color=777bb4)
 ![Ruby](https://img.shields.io/badge/-Ruby-informational?style=flat-square&logo=ruby&logoColor=&color=A20A0A)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=&color=FBD148)
@@ -32,19 +33,22 @@
 ![Sass](https://img.shields.io/badge/-Sass-informational?style=flat-square&logo=sass&logoColor=fff&color=c36b98)
 ![TypeScript](https://img.shields.io/badge/-Type_Script-informational?style=flat-square&logo=typescript&logoColor=fff&color=3178c6)
 
-![Laravel](https://img.shields.io/badge/-Laravel-informational?style=flat-square&logo=laravel&logoColor=fff&color=fa5c53)
+
+#### :point_right: Frameworks & Libraries
+
+&nbsp;&nbsp;&nbsp; ![Laravel](https://img.shields.io/badge/-Laravel-informational?style=flat-square&logo=laravel&logoColor=fff&color=fa5c53)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-informational?style=flat-square&logo=codeigniter&logoColor=&color=fff)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-informational?style=flat-square&logo=ruby-on-rails&logoColor=fff&color=91091E)
 ![Angular](https://img.shields.io/badge/-Angular-informational?style=flat-square&logo=angular&logoColor=&color=CD1818)
 ![Vue.js](https://img.shields.io/badge/-Vue_js-informational?style=flat-square&logo=vue.js&logoColor=&color=FBF6F0)
 ![Django](https://img.shields.io/badge/-Django-informational?style=flat-square&logo=django&logoColor=&color=grey)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=&color=EEEEEE)
-![Shopify](https://img.shields.io/badge/-Shopify-informational?style=flat-square&logo=shopify&logoColor=fff&color=7ab55c)
 ![jQuery](https://img.shields.io/badge/-jQuery-informational?style=flat-square&logo=jquery&logoColor=fff&color=F5A25D)
 
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=&color=3776ab)
-![Git](https://img.shields.io/badge/-GIT-informational?style=flat-square&logo=git&logoColor=fff&color=f05033)
+#### :point_right: Infrastructure & DevOps
+
+&nbsp;&nbsp;&nbsp; ![Git](https://img.shields.io/badge/-GIT-informational?style=flat-square&logo=git&logoColor=fff&color=f05033)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=&color=grey)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-informational?style=flat-square&logo=bitbucket&logoColor=&color=3DB2FF)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon_Web_Services-informational?style=flat-square&logo=amazon-aws&logoColor=&color=F0A500)
@@ -52,12 +56,34 @@
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-informational?style=flat-square&logo=elasticsearch&logoColor=&color=4A3933)
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=flat-square&logo=postman&logoColor=fff&color=fa6c37)
 
-![Mysql](https://img.shields.io/badge/-Mysql-informational?style=flat-square&logo=mysql&logoColor=fff&color=4479a1)
-![PostgreSql](https://img.shields.io/badge/-PostgreSql-informational?style=flat-square&logo=postgresql&logoColor=fff&color=3893b0)
+
+#### :point_right: IDEs & Tools
+&nbsp;&nbsp;&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=&color=3776ab)
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-informational?style=flat-square&logo=sublimetext&logoColor=&color=555)
+![PyCharm](https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white&color=16C79A)
+![Atom](https://img.shields.io/badge/-Atom-informational?style=flat-square&logo=atom&logoColor=white&color=555)
+
+
+#### :point_right: Databases
+
+&nbsp;&nbsp;&nbsp; ![Mysql](https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=mysql&logoColor=fff&color=4479a1)
+![PostgreSql](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=fff&color=3893b0)
 ![Maria DB](https://img.shields.io/badge/-MariaDB-informational?style=flat-square&logo=mariadb&logoColor=fff&color=FF577F)
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=&color=E4FBFF)
 
 
+#### :point_right: OS & Platforms
+
+&nbsp;&nbsp;&nbsp; ![Ubuntu](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=&color=F4F5DB)
+![iOS](https://img.shields.io/badge/iOS-informational?style=flat-square&logo=ios&logoColor=fff&color=000)
+![Linux](https://img.shields.io/badge/-Linux-informational?style=flat-square&logo=linux&logoColor=fff&color=fcc624)
+![Windows](https://img.shields.io/badge/-Windows-informational?style=flat-square&logo=windows&logoColor=fff&color=035AA6)
+
+#### :point_right: Others
+
+&nbsp;&nbsp;&nbsp; ![Shopify](https://img.shields.io/badge/-Shopify-informational?style=flat-square&logo=shopify&logoColor=fff&color=7ab55c)
+![WordPress](https://img.shields.io/badge/-WordPress-informational?style=flat-square&logo=wordpress&logoColor=fff&color=32373c)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-informational?style=flat-square&logo=woocommerce&logoColor=fff&color=7b51ad)
 
 -------------------
 
